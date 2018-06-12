@@ -2,7 +2,7 @@
 
 # Team project
 
-Work in teams of two but submit individually (see details below)
+Work in teams of two (optionally) but submit individually (see details below)
 
 # Objectives
 
@@ -35,8 +35,8 @@ You will set it up and then take measurements.
 
 Please submit the following deliverables:
 
-- Shared GitHub Classroom lab3 repository where you worked on this project as a group 
-  (there should be commits from all group members)
+- Shared GitHub lab3 repository where you worked on this project as a group 
+  (there should be commits from all group members); or individual GitHub repo if you worked alone
 - Individual Sakai submission under "Lab 3":
   - URL of shared GitHub team repository
   - Brief description of your collaboration style and summary of your 
@@ -44,12 +44,12 @@ Please submit the following deliverables:
 
 # Grading
 
-- 1 submission via GitHub
-- 1 tests passing and completion of items marked TODO
-- 1 performance testing for increasing problem sizes
-- 2 written part
-  - 1.5 responses to the questions above
-  - 0.5 grammar, style, formatting
-- 0.5 (optional) DRY in performance testing 
+- 8 submission via GitHub
+- 8 tests passing and completion of items marked TODO
+- 8 performance testing for increasing problem sizes
+- 16 written part
+  - 12 responses to the questions above
+  - 4 grammar, style, formatting
 
-*5 points TOTAL*
+
+*40 points TOTAL*
